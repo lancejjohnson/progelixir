@@ -18,7 +18,7 @@ defmodule Link do
   end
 end
 
-Link.run
+# Link.run
 
 defmodule Link2 do
   import :timer, only: [sleep: 1]
@@ -63,4 +63,4 @@ defmodule Link3 do
   end
 end
 
-Link3.run
+# Link3.run
